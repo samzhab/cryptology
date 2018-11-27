@@ -3,6 +3,7 @@ GEM
   specs:
     ast (2.4.0)
     byebug (10.0.2)
+    hex_string (1.0.1)
     json (2.1.0)
     parallel (1.12.1)
     parser (2.5.3.0)
@@ -26,6 +27,7 @@ PLATFORMS
 
 DEPENDENCIES
   byebug
+  hex_string
   json (~> 2.1.0)
   rubocop (~> 0.51.0)
 

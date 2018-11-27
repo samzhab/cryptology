@@ -22,6 +22,8 @@ eg. `$ rvm gemset create cryptology`
 
 Further Development [coming soon...]
 * frequency analysis attack
+* shift cipher
+* one time pad encryption
 * kasiski attack  
 * AES encryption
 * more ...
